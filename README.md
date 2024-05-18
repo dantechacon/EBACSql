@@ -3,17 +3,23 @@
 # Qual o problema tratado?
 Foi utilizado como apoio o seguinte dataset fictício com informações abertas de crédito: https://docs.google.com/spreadsheets/d/10cVekKvE2Braq6N9F9AXO4BZGiXfrLONti8N1zIB5zQ/edit?usp=sharing
 A partir desse dataset, foram investigados padrões de comportamento entre clientes de uma instituição financeira fictícia. No dataset, é possível identificar as seguintes colunas com informações:
-idade = idade do cliente
-sexo = sexo do cliente (F ou M)
-dependentes = número de dependentes do cliente
-escolaridade = nível de escolaridade do clientes
-salario_anual = faixa salarial do cliente
-tipo_cartao = tipo de cartao do cliente
-qtd_produtos = quantidade de produtos comprados nos últimos 12 meses
-iteracoes_12m = quantidade de iterações/transacoes nos ultimos 12 meses
-meses_inativo_12m = quantidade de meses que o cliente ficou inativo
-limite_credito = limite de credito do cliente
-valor_transacoes_12m = valor das transações dos ultimos 12 meses
+
+idade = idade do cliente;sexo = sexo do cliente (F ou M); 
+
+dependentes = número de dependentes do cliente; escolaridade = nível de escolaridade do clientes; 
+
+salario_anual = faixa salarial do cliente; tipo_cartao = tipo de cartao do cliente; 
+
+qtd_produtos = quantidade de produtos comprados nos últimos 12 meses; 
+
+iteracoes_12m = quantidade de iterações/transacoes nos ultimos 12 meses; 
+
+meses_inativo_12m = quantidade de meses que o cliente ficou inativo; 
+
+limite_credito = limite de credito do cliente; 
+
+valor_transacoes_12m = valor das transações dos ultimos 12 meses; 
+
 qtd_transacoes_12m = quantidade de transacoes dos ultimos 12 meses
 
 # Quais as principais conclusões da análise realizada?
