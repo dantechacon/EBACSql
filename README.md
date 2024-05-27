@@ -1,13 +1,7 @@
 ### Projeto de conclusão de curso da EBAC: SQL para análise de dados
 
 # Qual o problema tratado?
-Foi utilizado como apoio o seguinte dataset fictício com informações abertas de crédito: 
-
-### Dataset:
-[https://docs.google.com/spreadsheets/d/10cVekKvE2Braq6N9F9AXO4BZGiXfrLONti8N1zIB5zQ/edit?](Dataset)
-
-
-A partir desse dataset, foram investigados padrões de comportamento entre clientes de uma instituição financeira fictícia. No dataset, é possível identificar as seguintes colunas com informações:
+Foi utilizado como apoio um dataset fictício com informações abertas de crédito. A partir desse dataset, foram investigados padrões de comportamento entre clientes de uma instituição financeira fictícia. No dataset, é possível identificar as seguintes colunas com informações:
 
 idade = idade do cliente;sexo = sexo do cliente (F ou M); 
 
